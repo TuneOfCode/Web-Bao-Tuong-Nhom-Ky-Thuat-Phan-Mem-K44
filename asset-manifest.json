@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.053c3975.css",
+    "main.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.decaf325.js",
+    "static/js/787.9c9ab811.chunk.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js",
+    "static/media/vannghe.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/vannghe.97a2d6d740432a00f73f.jpg",
+    "static/media/hdhn.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/hdhn.91924024a7d17ea8b5db.jpg",
+    "static/media/covid.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/covid.4f7c1db45e8982478bf8.jpg",
+    "static/media/tn3.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/tn3.f9fa26de5a3de1af7dbb.png",
+    "static/media/svbc.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/svbc.65ef985f9de67bade778.jpg",
+    "static/media/logokt.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logokt.a2e186b124ab56ca2eea.jpg",
+    "static/media/hmtn.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/hmtn.14bd6ea12732dae484d1.jpg",
+    "static/media/nhhm.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/nhhm.48e00a8fa0cfb7b375f5.jpg",
+    "static/media/ipc.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/ipc.75557433afdf760ce191.jpg",
+    "static/media/htsv1.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/htsv1.09614285f74dffc906d4.jpg",
+    "static/media/logodt.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logodt.7ef16977d700d6991e71.png",
+    "static/media/logollct.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logollct.0259c95c901dfce36798.jpg",
+    "static/media/logo.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logo.8c666f39a552e2ee446e.png",
+    "static/media/logocntt.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logocntt.145abfc53cdbcfb9a36b.jpg",
+    "static/media/logomt.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logomt.08b6e2613cfe6640fefd.jpg",
+    "static/media/logosh.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logosh.9e35cae7bb4c5322f04a.png",
+    "static/media/logodc.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logodc.4dd25bafb96b37a795cc.jpg",
+    "index.html": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/index.html",
+    "main.053c3975.css.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.053c3975.css.map",
+    "main.decaf325.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.decaf325.js.map",
+    "787.9c9ab811.chunk.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.053c3975.css",
+    "static/js/main.decaf325.js"
+  ]
+}
