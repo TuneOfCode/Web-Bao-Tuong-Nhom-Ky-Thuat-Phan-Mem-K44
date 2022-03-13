@@ -11,11 +11,11 @@ import ButtonScrollTop from "./components/footers/ButtonScrollTop";
 export default function App() {
   return (
     <div
-      className="App h-full mx-auto w-auto
-      container bg-gradient-to-r relative
+      className="App h-full mx-auto w-full
+      bg-gradient-to-r relative
       overflow-x-hidden overflow-y-auto
-       from-sky-300 to-indigo-300
-      dark:from-sky-800 dark:to-indigo-800"
+      from-sky-300 to-indigo-300
+      dark:from-sky-700 dark:to-indigo-700"
     >
       {/* Headers */}
       <Navbar />

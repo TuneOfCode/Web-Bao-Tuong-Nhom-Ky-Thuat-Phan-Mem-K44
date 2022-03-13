@@ -31,9 +31,9 @@ export default function Navbar() {
   return (
     <div id="home" className="header" style={{ height: "90px" }}>
       <header
-        className="flex z-40 fixed container items-center lg:px-5 
+        className="flex z-40 fixed w-full items-center lg:px-5 
         mb:px-2 bg-gradient-to-r from-sky-500 to-indigo-500
-        dark:from-sky-800 dark:to-indigo-800 py-2"
+        dark:from-sky-700 dark:to-indigo-700 py-2"
       >
         {/* Logo */}
         <div className="logo">
@@ -52,11 +52,18 @@ export default function Navbar() {
         {/* Sologan */}
         <div
           className="sologan animate-pulse ml-2 from-neutral-100 text-white uppercase text-center 
-        lg:text-xl md:text-xl sm:text-xl
+        lg:text-xl md:text-sm sm:text-xl
         mb:text-xs mb:pr-2"
         >
-          <h2>Kỷ niệm 65 năm thành lập</h2>
-          <h2>Trường Đại học khoa học</h2>
+          <h2
+            className="lg:text-xl md:text-sm sm:text-xl mb:text-xs
+            lg:w-auto md:w-48 sm:w-auto mb:w-auto"
+          >
+            Kỷ niệm 65 năm thành lập
+          </h2>
+          <h2 className="lg:text-xl md:text-sm sm:text-xl mb:text-xs">
+            Trường Đại học khoa học
+          </h2>
           <h2>Đại học Huế</h2>
         </div>
         {/* List */}

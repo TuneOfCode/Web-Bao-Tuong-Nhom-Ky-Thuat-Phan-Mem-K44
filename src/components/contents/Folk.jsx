@@ -12,7 +12,7 @@ export default function Folk() {
     <div
       id="folk"
       className="pt-28 pb-28 border-0 shadow-lg flex flex-col lg:w-full 
-      md:w-full sm:w-full mb:w-72 mb:m-auto"
+      md:w-full sm:w-full mb:w-full mb:m-auto"
     >
       <div className="flex justify-center items-center pb-10">
         <h2

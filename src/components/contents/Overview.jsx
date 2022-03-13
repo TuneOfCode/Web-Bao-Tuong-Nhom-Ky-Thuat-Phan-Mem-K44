@@ -63,7 +63,7 @@ export default function Overview() {
     <div id="overview" className="History pt-20">
       <div className="flex justify-center">
         <div
-          className="container shadow-lg flex flex-col lg:w-full md:w-full sm:w-full mb:w-80
+          className="shadow-lg flex flex-col lg:w-full md:w-full sm:w-full mb:w-full
           bg-gradient-to-r from-purple-500 to-blue-600
           dark:from-purple-800 dark:to-blue-800"
         >

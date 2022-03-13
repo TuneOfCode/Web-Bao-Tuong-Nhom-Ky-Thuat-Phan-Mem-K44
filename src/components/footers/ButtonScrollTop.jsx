@@ -19,8 +19,7 @@ export default function ButtonScrollTop() {
         <Link
           className="btn-scroll-top flex justify-center items-center
             bg-blue-800 dark:bg-blue-400 p-5 w-5 h-5 rounded-lg 
-            opacity-40 hover:opacity-100 fixed 
-            lg:right-5 md:right-5 sm:right-5 mb:right-12
+            opacity-40 hover:opacity-100 fixed right-5
             bottom-5 cursor-pointer"
           to="home"
           smooth={true}
