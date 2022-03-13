@@ -42,7 +42,7 @@
 
 ### **Bước 3**:
 
-#### **gõ dòng lệnh:** **`npm init`** **để tải node_modules về**
+#### **gõ dòng lệnh:** **`npm install`** **để tải node_modules về**
 
 ### **Bước 4**:
 
