@@ -38,7 +38,7 @@
 
 ### **Bước 2**:
 
-#### **Thêm dự án vào editor hoặc IDE và mở terminal**
+#### **Thêm dự án vào editor hoặc IDE và mở terminal trỏ vào thư mục "Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44"**
 
 ### **Bước 3**:
 
