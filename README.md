@@ -66,7 +66,7 @@
 
 ## **Bản quyền**
 
-#### **Nhóm Kỹ thuật phần mềm K44: **
+#### Nhóm Kỹ thuật phần mềm K44:
 
 #### **_[Trần Thanh Tú](https://www.facebook.com/3T.2208/)_ **
 
