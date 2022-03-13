@@ -22,7 +22,7 @@
 
 ---
 
-## **Công nghệ sử dụng**
+## **Công nghệ**
 
 ### **`ReactJS`**
 
@@ -34,7 +34,7 @@
 
 ### **Bước 1**:
 
-#### **Mở Git Bash Here và gõ lệnh:** **`git clone`** _[https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git](https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git)_
+#### **Tải _[NodeJS](https://nodejs.org/) và _[Git](https://git-scm.com/). Mở Git Bash Here và gõ lệnh:** **`git clone`** _[https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git](https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git)_
 
 ### **Bước 2**:
 
