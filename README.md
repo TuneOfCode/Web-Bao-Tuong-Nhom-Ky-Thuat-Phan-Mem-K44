@@ -22,7 +22,7 @@
 
 ---
 
-## ** Công nghệ sử dụng **
+## **Công nghệ sử dụng**
 
 ### **`ReactJS`**
 
