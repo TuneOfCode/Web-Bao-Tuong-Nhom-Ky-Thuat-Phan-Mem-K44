@@ -8,7 +8,7 @@
 
 #### **Web báo tường mô tả khách quan về quá trình thành lập và phát triển trong chặn đường** **65 năm của Đại học Khoa học - Đại học Huế. Web báo tường bao gồm những mục chính**:
 
-#### **`trang chủ`**
+#### **` trang chủ `**
 
 #### **`tổng quan`**
 
@@ -42,15 +42,15 @@
 
 ### **Bước 3**:
 
-#### **gõ dòng lệnh: ** **`npm init`** **để tải node_modules về**
+#### **gõ dòng lệnh:** **`npm init`** **để tải node_modules về**
 
 ### **Bước 4**:
 
-#### **gõ dòng lệnh: ** **`npm start`**
+#### **gõ dòng lệnh:** **`npm start`**
 
 ### **Bước 5**:
 
-#### **`Mở dường dẫn: `** **_[http://localhost:3000](http://localhost:3000)_**
+#### **`Mở dường dẫn:`** **_[http://localhost:3000](http://localhost:3000)_**
 
 ---
 
