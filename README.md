@@ -50,7 +50,7 @@
 
 ### **Bước 5**:
 
-#### **`Mở dường dẫn:`** **_[http://localhost:3000](http://localhost:3000)_**
+#### **Mở dường dẫn:** **_[http://localhost:3000](http://localhost:3000)_**
 
 ---
 
