@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# **Cuộc thi thiết kế web báo tường kỉ niệm 65 năm thành lập trường Đại học Khoa học - Đại học Huế**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### **`Đường liên kết tới web`**: https://tuneofcode.github.io/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## **Nội dung**
 
-### `npm start`
+#### **Web báo tường mô tả khách quan về quá trình thành lập và phát triển trong chặn đường** **65 năm của Đại học Khoa học - Đại học Huế. Web báo tường bao gồm những mục chính**:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### **`trang chủ`**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### **`tổng quan`**
 
-### `npm test`
+#### **`thành tựu`**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### **`thơ và truyện`**
 
-### `npm run build`
+#### **`danh ngôn`**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### **`ảnh nổi bật`**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ** Công nghệ sử dụng **
 
-### `npm run eject`
+### **`ReactJS`**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **`Tailwind`**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## **Hướng dẫn chạy dự án**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### **Bước 1**:
 
-## Learn More
+#### **Mở Git Bash Here và gõ lệnh:** **`git clone`** _[https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git](https://github.com/TuneOfCode/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44.git)_
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **Bước 2**:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### **Thêm dự án vào editor hoặc IDE và mở terminal**
 
-### Code Splitting
+### **Bước 3**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### **gõ dòng lệnh: ** **`npm init`** **để tải node_modules về**
 
-### Analyzing the Bundle Size
+### **Bước 4**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### **gõ dòng lệnh: ** **`npm start`**
 
-### Making a Progressive Web App
+### **Bước 5**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### **`Mở dường dẫn: `** **_[http://localhost:3000](http://localhost:3000)_**
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## **Nguồn tham khảo**
 
-### Deployment
+#### **Nội dung được sưu tầm từ**:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+##### **_[Giới thiệu về trường Đại học Khoa Học - Đại học Huế](http://husc.hueuni.edu.vn/cocautochuc.php)_**
 
-### `npm run build` fails to minify
+##### **_[Google hình ảnh về trường Đại học Khoa Học - Đại học Huế](https://www.google.com/search?source=univ&tbm=isch&q=%E1%BA%A3nh+tr%C6%B0%E1%BB%9Dng+%C4%91%E1%BA%A1i+h%E1%BB%8Dc+khoa+h%E1%BB%8Dc+Hu%E1%BA%BF)_**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## **Bản quyền**
+
+#### **`Nhóm Kỹ thuật phần mềm K44:` **
+
+#### **_[Trần Thanh Tú](https://www.facebook.com/3T.2208/)_ **
+
+#### **_[Nguyễn Xuân Tân Lộc](https://www.facebook.com/twilight.nxt/)_**
+
+#### **_[Nguyễn Thị Thu Ni](https://www.facebook.com/Thao03.uylinh/)_**
+
+#### **_[Cao Nguyên Trường](https://www.facebook.com/truongcao2012/)_**
