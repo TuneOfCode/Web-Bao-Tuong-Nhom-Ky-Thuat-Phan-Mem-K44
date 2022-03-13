@@ -50,7 +50,7 @@
 
 ### **Bước 5**:
 
-#### **Mở đường dẫn:** **_[http://localhost:3000](http://localhost:3000)_**
+#### **Mở đường dẫn:** **_[http://localhost:3000/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44](http://localhost:3000/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44)_**
 
 ---
 
