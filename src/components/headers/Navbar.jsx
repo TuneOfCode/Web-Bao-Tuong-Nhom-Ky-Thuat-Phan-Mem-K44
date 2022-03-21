@@ -86,9 +86,9 @@ export default function Navbar() {
             {navbar.map((item, index) => (
               <li
                 key={index}
-                className="mr-5 text-xl lg:w-auto animate-pulse
+                className="mr-5 text-xl lg:w-auto 
               md:p-1 sm:p-1 mb:p-1 cursor-pointer 
-              hover:text-slate-100 mb:w-36"
+              hover:text-slate-200 mb:w-36"
               >
                 <Link to={item.link} smooth={true} duration={1000}>
                   {item.title}

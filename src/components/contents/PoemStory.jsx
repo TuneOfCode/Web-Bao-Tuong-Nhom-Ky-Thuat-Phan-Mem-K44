@@ -47,9 +47,7 @@ export default function PoemStory() {
                     />
                   </div>
                   <div className="p-8">
-                    <h2
-                      className={`block text-center mt-1 text-lg leading-tight font-medium text-black`}
-                    >
+                    <h2 className="block text-center mt-1 text-lg leading-tight font-medium text-black">
                       {item.title}
                     </h2>
                     <div
@@ -60,14 +58,15 @@ export default function PoemStory() {
                           lg:text-base md:text-base sm:text-base mb:text-sm scrollbar`}
                     >
                       {item.contents.map((content, index) => {
-                        if (item.category === "lục bát") {
+                        if (
+                          item.category === "lục bát" ||
+                          item.category === "thơ"
+                        ) {
                           return (
                             <p
                               key={index}
                               className={
-                                index % 2 === 0
-                                  ? "lg:text-center md:text-center sm:text-center mb:text-left"
-                                  : ""
+                                "lg:text-center md:text-center sm:text-center mb:text-left"
                               }
                             >
                               <i>{content}</i>
@@ -113,9 +112,7 @@ export default function PoemStory() {
                     />
                   </div>
                   <div className="p-8">
-                    <h2
-                      className={`block mt-1 text-lg leading-tight font-medium text-white`}
-                    >
+                    <h2 className="block text-center mt-1 text-lg leading-tight font-medium text-white">
                       {item.title}
                     </h2>
                     <div
@@ -126,25 +123,27 @@ export default function PoemStory() {
                           lg:text-base md:text-base sm:text-base mb:text-sm scrollbar`}
                     >
                       {item.contents.map((content, index) => {
-                        if (item.category === "lục bát") {
+                        if (
+                          item.category === "lục bát" ||
+                          item.category === "thơ"
+                        ) {
                           return (
                             <p
                               key={index}
                               className={
-                                index % 2 === 0
-                                  ? "lg:text-center md:text-center sm:text-center mb:text-left"
-                                  : ""
+                                "lg:text-center md:text-center sm:text-center mb:text-left"
                               }
                             >
                               <i>{content}</i>
                             </p>
                           );
+                        } else {
+                          return (
+                            <p key={index}>
+                              <i>{content}</i>
+                            </p>
+                          );
                         }
-                        return (
-                          <p key={index}>
-                            <i>{content}</i>
-                          </p>
-                        );
                       })}
                     </div>
                     <div
