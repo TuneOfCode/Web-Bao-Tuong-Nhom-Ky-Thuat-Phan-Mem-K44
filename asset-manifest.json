@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.07cb58e8.css",
-    "main.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.1621c93a.js",
+    "main.css": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.3194cc1b.css",
+    "main.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.0dbc44c6.js",
     "static/js/787.9c9ab811.chunk.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js",
     "static/media/slide6.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/slide6.27e90e6e6b1a41996d8b.png",
     "static/media/vannghe.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/vannghe.97a2d6d740432a00f73f.jpg",
@@ -29,12 +29,12 @@
     "static/media/logosh.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logosh.9e35cae7bb4c5322f04a.png",
     "static/media/logodc.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logodc.4dd25bafb96b37a795cc.jpg",
     "index.html": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/index.html",
-    "main.07cb58e8.css.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.07cb58e8.css.map",
-    "main.1621c93a.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.1621c93a.js.map",
+    "main.3194cc1b.css.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.3194cc1b.css.map",
+    "main.0dbc44c6.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.0dbc44c6.js.map",
     "787.9c9ab811.chunk.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07cb58e8.css",
-    "static/js/main.1621c93a.js"
+    "static/css/main.3194cc1b.css",
+    "static/js/main.0dbc44c6.js"
   ]
 }
