@@ -54,7 +54,7 @@ export default function Overview() {
         item.classList.remove("animate-right");
       }, 500);
       item.classList.remove("animate-left");
-    }, 10000);
+    }, 20000);
 
     /* avoid memory leak */
     return () => clearTimeout(autoChangeHistory);

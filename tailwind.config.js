@@ -8,7 +8,7 @@ module.exports = {
       sora: ["Sora", "sans-serif"],
     },
     screens: {
-      mb: "250px",
+      mb: "150px",
       sm: "640px",
       md: "768px",
       lg: "1024px",

@@ -37,7 +37,7 @@ export default function Navbar() {
       >
         {/* Logo */}
         <div className="logo">
-          <a href="/">
+          <a href="/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44">
             <img
               className="lg:w-20 lg:h-20
                 md:w-20 md:h-20
@@ -74,8 +74,9 @@ export default function Navbar() {
         >
           <ul
             id="list-index"
-            className="lg:text-white lg:flex lg:m-auto 
-          lg:relative lg:top-0 lg:bg-transparent
+            className="lg:text-white lg:flex 
+          lg:w-auto md:w-56
+          lg:m-auto lg:relative lg:top-0 lg:bg-transparent
           md:hidden md:absolute md:-right-8 md:top-5 
           md:bg-indigo-400 md:text-white md:z-30 md:p-2 md:rounded
           sm:hidden sm:absolute sm:-right-8 sm:top-8 
@@ -86,11 +87,17 @@ export default function Navbar() {
             {navbar.map((item, index) => (
               <li
                 key={index}
-                className="mr-5 text-xl lg:w-auto 
-              md:p-1 sm:p-1 mb:p-1 cursor-pointer 
+                className="mr-5 text-xl lg:w-auto md:w-full
+              md:p-2 sm:p-1 mb:p-1 cursor-pointer 
               hover:text-slate-200 mb:w-36"
               >
-                <Link to={item.link} smooth={true} duration={1000}>
+                <Link
+                  className="flex items-center"
+                  to={item.link}
+                  smooth={true}
+                  duration={1000}
+                >
+                  {item.icon}
                   {item.title}
                 </Link>
               </li>

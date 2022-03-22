@@ -11,6 +11,18 @@ import logodt from "../img/logodt.png";
 
 const histories = [
   {
+    id: "0",
+    title:
+      "CHÀO MỪNG 65 NĂM THÀNH LẬP TRƯỜNG ĐẠI HỌC KHOA HỌC – ĐẠI HỌC HUẾ (1957-2022)",
+    img: logo,
+    content:
+      "Trường Đại Học Khoa học là một trường đại học thuộc hệ thống Đại Học Huế. Tiền thân của của trường là Trường Đại Học Tổng Hợp Huế, được thành lập trên cơ sở sáp nhập trường Đại học Khoa học và trường Đại học Văn khoa của Viện Đại học Huế được thành lập từ năm 1957. Đến năm 1994, trường Đại học tổng hợp trở thành trường thành viên của Đại Học Huế và đổi tên thành trường Đại Học Khoa học." +
+      "Trải qua 65 năm xây dựng và trưởng thành, các thế hệ thầy và trò của trường Đại học Khoa học đã có nhiều đóng góp tích cực vào sự nghiệp phát triển giáo dục đại học và nghiên cứu khoa học của nước nhà." +
+      "65 năm qua trường Đại học Khoa học được sự quan tâm đặc biệt của các cấp lãnh đạo Đảng và nhà nước, Trường Đại học Khoa học, Đại học Huế có sứ mạng đào tạo nguồn nhân lực chất lượng cao; nghiên cứu cơ bản và ứng dụng về khoa học tự nhiên, khoa học xã hội - nhân văn và kỹ thuật - công nghệ đáp ứng yêu cầu phát triển đất nước. Để thực hiện được sứ mệnh đó, Trường luôn tiên phong trong đổi mới giáo dục đại học, đặc biệt là đào tạo nguồn nhân lực trong lĩnh vực công nghệ thông tin chất lượng và nghiên cứu khoa học ở các lĩnh vực sinh, hoá học. Bên cạnh đó nhà trường còn là cầu nối giữa các doanh nghiệp và sinh viên tạo điều kiện tìm kiếm nguồn nhân lực chất lượng cho doanh nghiệp cũng như là việc làm thuận lợi cho sinh viên đang học tập tại trường. Đại dịch Covid 19 gây ảnh hưởng xấu đến nhiều lĩnh vực trong đó có lĩnh vực giáo dục đại học. Tuy nhiên nhà trường đã nhanh chóng triển khai các phương án dạy học onl trên GG Meet nhưng vẫn đảm bảo chất lượng dạy học như trực tiếp ở trên giảng đường. Đồng thời, còn cùng đất nước chiến đấu với dịch Covid 19 khi tham gia công tác nghiên cứu về đánh giá khả năng ức chế virus SARS-CoV-2 của các chất tự nhiên và tổng hợp sử dụng phương pháp Mô phỏng, tổ chức các hoạt động phòng chống dịch tại nhà trường cũng như hỗ trợ thiết bị y tế chống dịch hay tổ chức test Covid toàn trường cho sinh viên trước khi trở lại học tập trực tiếp tại trường. " +
+      "Trường Đại học Khoa học không chỉ là nơi học tập sáng tạo mà còn là sân chơi lành mạnh của sinh viên với những câu lạc bộ sinh viên nhằm hỗ trợ kỹ năng mềm cho sinh viên cũng như là nơi phát triển những tài năng trên nhiều lĩnh vực. Bên cạnh đó trường còn có tổ chức nhiều hoạt động ngoại khoá để sinh viên thể hiện sự gắn kết giữa sinh với sinh viên và sinh viên với giảng viên và giảng viên với giảng viên." +
+      "Với những thành tựu gặt hái được suốt 65 năm qua,trường Đại học Khoa học nhiều năm đón nhận bằng khăn do thủ tướng chính phủ khăn tặng, Huân chương lao động hạng nhất (1996) và hai lần nhận được Huân Chương độc lập hạng nhì vào năm 2011 và 2017) do Chủ tịch nước trao trặng ,  tiếp tục phát huy những truyền thống vẻ vang, tự hào. Đồng thời, có những thay đổi trong tư suy sáng tạo, phương pháp giảng dạy thích nghi với “ Trạng thái bình thường mới”, thích hợp với thời đại hiện đại hoá và có những hành động hiệu quả thiết thực để xứng đáng với danh hiệu là Trường tiên tiến suất sắc trong nhiều năm liền.",
+  },
+  {
     id: "1",
     title: "Trường Đại học Khoa Học",
     img: logo,
