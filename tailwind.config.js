@@ -11,7 +11,7 @@ module.exports = {
       mb: "150px",
       sm: "640px",
       md: "768px",
-      lg: "1024px",
+      lg: "1034px",
       xl: "1280px",
       "2xl": "1536px",
     },
@@ -21,11 +21,18 @@ module.exports = {
         "1/20": "5%",
       },
       height: {
+        105: "410px",
+        110: "440px",
         112: "465px",
         128: "32rem",
       },
       animation: {
         "spin-slow": "spin 3s linear infinite",
+        "pulse-slow": "pulse 3s ease-in-out infinite",
+      },
+      transitionDuration: {
+        0: "0ms",
+        2000: "2000ms",
       },
     },
   },

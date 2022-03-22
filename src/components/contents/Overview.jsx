@@ -60,7 +60,10 @@ export default function Overview() {
     return () => clearTimeout(autoChangeHistory);
   }, [history]);
   return (
-    <div id="overview" className="History pt-20">
+    <div
+      id="overview"
+      className="History lg:pt-16 md:lg:pt-16 sm:pt-0 mb:pt-0 "
+    >
       <div className="flex justify-center">
         <div
           className="shadow-lg flex flex-col lg:w-full md:w-full sm:w-full mb:w-full
@@ -91,6 +94,7 @@ export default function Overview() {
             <div
               id={histories[history].id}
               className="max-w-md p-2 mx-auto py-5
+              lg:h-auto md:h-auto sm:h-105 mb:h-105
               bg-white rounded-xl shadow-md overflow-hidden 
               md:max-w-2xl lg:w-full md:w-full sm:w-full mb:w-60"
               data-aos="zoom-in-up"
@@ -104,10 +108,17 @@ export default function Overview() {
                   />
                 </div>
                 <div className="p-5 mb:h-42">
-                  <h4 className="block text-center capitalize mt-1 text-lg leading-tight font-medium text-black">
+                  <h4
+                    className="block text-center capitalize mt-1 
+                  lg:text-lg md:text-lg sm:text-base mb:text-base 
+                  leading-tight font-medium text-black"
+                  >
                     {histories[history].title}
                   </h4>
-                  <p className="scrollbar mt-2 text-slate-500 h-auto mb:h-28 mb:overflow-y-auto">
+                  <p
+                    className="scrollbar mt-2 text-slate-500 
+                    lg:h-36 md:h-36 sm:h-36 mb:h-40 overflow-y-auto"
+                  >
                     {histories[history].content}
                   </p>
                 </div>

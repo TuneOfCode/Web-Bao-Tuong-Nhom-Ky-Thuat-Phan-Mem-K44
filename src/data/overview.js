@@ -13,7 +13,7 @@ const histories = [
   {
     id: "0",
     title:
-      "CHÀO MỪNG 65 NĂM THÀNH LẬP TRƯỜNG ĐẠI HỌC KHOA HỌC – ĐẠI HỌC HUẾ (1957-2022)",
+      "Kỷ niệm 65 Năm Thành Lập Trường Đại Học Khoa Học – Đại Học Huế (1957-2022)",
     img: logo,
     content:
       "Trường Đại Học Khoa học là một trường đại học thuộc hệ thống Đại Học Huế. Tiền thân của của trường là Trường Đại Học Tổng Hợp Huế, được thành lập trên cơ sở sáp nhập trường Đại học Khoa học và trường Đại học Văn khoa của Viện Đại học Huế được thành lập từ năm 1957. Đến năm 1994, trường Đại học tổng hợp trở thành trường thành viên của Đại Học Huế và đổi tên thành trường Đại Học Khoa học." +

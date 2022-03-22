@@ -12,7 +12,7 @@ export default function PoemStory() {
   return (
     <div
       id="PoemStory"
-      className="pt-32 pb-20 border-0 shadow-lg flex flex-col lg:w-full 
+      className="lg:pt-32 mb:pt-16 pb-20 border-0 shadow-lg flex flex-col lg:w-full 
       md:w-full sm:w-full bg-gradient-to-r from-purple-600 to-blue-600
       dark:from-purple-800 dark:to-blue-800"
     >
@@ -30,7 +30,7 @@ export default function PoemStory() {
           return (
             <div
               key={item.id}
-              className="max-w-md pt-5 mx-auto 
+              className="max-w-md pt-5 mx-auto mb-20
                   rounded-xl shadow-md overflow-hidden 
                   md:max-w-2xl lg:w-full md:w-full sm:w-full mb:w-60"
               data-aos={`flip-right`}
@@ -46,7 +46,7 @@ export default function PoemStory() {
                       alt="Man looking at item at a store"
                     />
                   </div>
-                  <div className="p-8">
+                  <div className="p-5">
                     <h2 className="block text-center mt-1 text-lg leading-tight font-medium text-black">
                       {item.title}
                     </h2>
@@ -81,7 +81,9 @@ export default function PoemStory() {
                       })}
                     </div>
                     <div
-                      className={`capitalize mt-2 tracking-wide text-sm text-right
+                      className={`capitalize mt-8 tracking-wide 
+                        lg:text-sm md:text-sm sm:text-sm mb:text-xs 
+                        lg:text-right md:text-right sm:text-right mb:text-left
                         text-indigo-500 font-semibold`}
                     >
                       {item.author}
@@ -95,7 +97,7 @@ export default function PoemStory() {
           return (
             <div
               key={item.id}
-              className="max-w-md pt-5 mx-auto 
+              className="max-w-md pt-5 mx-auto mb-20
                   rounded-xl shadow-md overflow-hidden 
                   md:max-w-2xl lg:w-full md:w-full sm:w-full mb:w-60"
               data-aos={`flip-left`}
@@ -111,7 +113,7 @@ export default function PoemStory() {
                       alt="Man looking at item at a store"
                     />
                   </div>
-                  <div className="p-8">
+                  <div className="p-5">
                     <h2 className="block text-center mt-1 text-lg leading-tight font-medium text-white">
                       {item.title}
                     </h2>
@@ -147,7 +149,9 @@ export default function PoemStory() {
                       })}
                     </div>
                     <div
-                      className={`capitalize mt-2 tracking-wide text-sm text-right
+                      className={`capitalize mt-8 tracking-wide 
+                          lg:text-sm md:text-sm sm:text-sm mb:text-xs 
+                          lg:text-right md:text-right sm:text-right mb:text-left
                           text-yellow-500 font-semibold`}
                     >
                       {item.author}
