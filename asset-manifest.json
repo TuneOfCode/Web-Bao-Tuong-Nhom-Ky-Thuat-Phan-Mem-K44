@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.4c90ca1b.css",
+    "main.css": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.1d523fc9.css",
     "main.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.12cddbd3.js",
     "static/js/787.9c9ab811.chunk.js": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js",
     "static/media/slide6.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/slide6.27e90e6e6b1a41996d8b.png",
@@ -29,12 +29,12 @@
     "static/media/logosh.png": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logosh.9e35cae7bb4c5322f04a.png",
     "static/media/logodc.jpg": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/media/logodc.4dd25bafb96b37a795cc.jpg",
     "index.html": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/index.html",
-    "main.4c90ca1b.css.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.4c90ca1b.css.map",
+    "main.1d523fc9.css.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/css/main.1d523fc9.css.map",
     "main.12cddbd3.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/main.12cddbd3.js.map",
     "787.9c9ab811.chunk.js.map": "/Web-Bao-Tuong-Nhom-Ky-Thuat-Phan-Mem-K44/static/js/787.9c9ab811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c90ca1b.css",
+    "static/css/main.1d523fc9.css",
     "static/js/main.12cddbd3.js"
   ]
 }
